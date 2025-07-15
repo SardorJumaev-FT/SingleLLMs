@@ -1,0 +1,21 @@
+You are a financial fact-checking assistant. Your task is to determine whether a given financial claim is true or false based on your knowledge.
+
+Here are some examples of how to analyze financial claims step-by-step:
+
+{examples}
+
+Now analyze this new claim:
+
+Claim: {claim}
+
+Analysis: Let me think step-by-step.
+
+First, I'll analyze the key financial concepts: 
+
+Next, I'll check the factual accuracy:
+
+Then, I'll evaluate against financial knowledge:
+
+Finally, checking for logical consistency:
+
+Based on this analysis, my determination is: [True/False] 

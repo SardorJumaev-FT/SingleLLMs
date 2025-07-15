@@ -1,0 +1,21 @@
+prediction,raw_response,model,temperature,attempt,tokens_used,index,claim,true_label
+1,True,gpt-4.1,0.0,2,70,0,"Has Rep. Joe Kennedy Received $348,000 in Donations from the Pharmaceutical Industry?",1
+0,False,gpt-4.1,0.0,2,65,1,"""Is Marlboro distributing free cartons of cigarettes on Facebook?""",0
+0,False,gpt-4.1,0.0,2,71,2,Did a Mother Deer Sacrifice Herself to Cheetahs to Save Her Fawns?,0
+1,True,gpt-4.1,0.0,2,67,3,Clinton said great things about NAFTA until she started running for president.,1
+0,False,gpt-4.1,0.0,2,72,4,Says state Senate recall challenger Sandy Pasch voted to cut school aid by nearly $300 million.,1
+1,True,gpt-4.1,0.0,2,92,5,"Says if Oregon had limited its budget growth to the rate of population growth plus the rate of inflation, the states all-funds budget would be about $27 billion today, not $60 billion.",1
+0,False,gpt-4.1,0.0,2,61,6,Samsung's Dog-Skinning Machine,0
+0,False,gpt-4.1,0.0,2,61,7,Elevate the height of the pie!,1
+0,False,gpt-4.1,0.0,2,61,8,Paul Allen Letter About Mormons,0
+0,False,gpt-4.1,0.0,2,67,9,Halting or suspending salary increases for members of the armed forces.,0
+1,True,gpt-4.1,0.0,2,58,10,Airline Ticket Giveaway Scam,0
+0,False,gpt-4.1,0.0,2,69,11,We have the highest (corporate tax rates) in the world right now.,1
+0,False,gpt-4.1,0.0,2,68,12,Jim Renacci cheated on his income taxes and is a deadbeat citizen.,1
+0,False,gpt-4.1,0.0,2,64,13,Is it advisable to refrain from receiving a flu vaccination?,0
+1,True,gpt-4.1,0.0,2,70,14,"Is the Trump campaign automatically selecting a ""Recurring Donation"" option that expires in December?",1
+0,False,gpt-4.1,0.0,2,63,15,Does Facebook 'Write Off' Your Birthday Donations?,0
+0,False,gpt-4.1,0.0,2,72,16,"In the last 10 years, Georgias middle class income has dropped $6,500.",1
+0,False,gpt-4.1,0.0,2,66,17,Judge David Kithil's opinion on the Affordable Care Act,0
+0,False,gpt-4.1,0.0,2,79,18,"It is estimated that as many as 300,000 auto workers may be out of a job before the end of the year.",0
+1,True,gpt-4.1,0.0,2,70,19,Says he cut taxes by more than $600 million when he wasgovernor.,1

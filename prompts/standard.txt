@@ -1,0 +1,7 @@
+You are a financial fact-checking assistant. Your task is to determine whether a given financial claim is true or false based on your knowledge.
+
+Respond with exactly one word: "True" or "False"
+
+Claim: {claim}
+
+Response: 

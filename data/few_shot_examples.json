@@ -1,0 +1,441 @@
+{
+  "examples": [
+    {
+      "url": "https://www.snopes.com/fact-check/mar-a-lago-foreclosure-fox-news/",
+      "claim": "Was there a report by Fox News indicating that the Mar-a-Lago Club owned by Trump received a foreclosure notice from Deutsche Bank?",
+      "author": "Jordan Liles",
+      "posted": "11/15/2023",
+      "sci_digest": [
+        "\"BREAKING FOX NEWS: Deutsche Bank has filed a notice to foreclose on Mar-a-Lago,\" a popular post on X read."
+      ],
+      "justification": "On Nov. 15, 2023, a user on X with the handle @PatMaguire10 published a post (archived) stating that Fox News had reported former U.S. President Donald Trump's Mar-a-Lago Club in Palm Beach, Florida, had received a foreclosure notice from Deutsche Bank. We received reader mail asking if this was true. The post read, \"BREAKING FOX NEWS: Deutsche Bank has filed a notice to foreclose on Mar A Lago. The Trump property is part of a larger estate lien that is $190 million delinquent. Court documents show a $3.4 billion loan that's in default. Trump hasn't responded to repeated attempts for comment. Developing story.\" However, a quick check of @PatMaguire10's X bio revealed that the account posts \"parody\" content. In other words, Fox News did not report on any such foreclosure notice, nor was there any public record of a foreclosure of Mar-a-Lago taking place or scheduled to happen in the future. For a little more background on the subject referenced, on the same day that the post was created, Trump's legal team reportedly asked for a mistrial to be declared in the civil fraud trial brought against him in New York. Weeks earlier, the same trial featured testimony from retired Deutsche Bank executive Nicholas Haigh. Haigh provided information to the court about the bank's decision to loan Trump roughly $125 million for the purchase of the Trump National Doral property in Miami in 2011, according to ABC News. As for Mar-a-Lago, the Miami Herald reported in August 2022 that Trump had received a loan from Chase Manhattan Bank\u2014not Deutsche Bank\u2014for his 1985 purchase of the property. Mar-a-Lago itself cost Trump $8 million, which he financed with an $8.5 million loan from Chase Manhattan Bank. The other parcel\u2014oceanfront land next to the manor\u2014cost $2 million. Trump was able to use $500,000 from the estate loan and a $1.5 million mortgage from the seller, Jack C. Massey, to cover the bill. For further reading, we previously published a report titled, \"Media Literacy: How Can You Tell if a Post Is Satire/Parody?\"",
+      "issues": [
+        "mortgage"
+      ],
+      "image_data": [
+        {
+          "image_src": "https://drive.google.com/uc?export=view&id=1LxWjfBMuSbeQuybA2ij27KJgb-YYP2Ya"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence": "On Nov. 15, 2023, a user on X with the handle @PatMaguire10 published a post (archived) that said Fox News had reported former U.S. President Donald Trump's Mar-a-Lago Club in Palm Beach, Florida had received a foreclosure notice from Deutsche Bank. We received reader mail that asked if this was true.",
+          "hrefs": [
+            "https://twitter.com/PatMaguire10/status/1724802268879606013",
+            "https://archive.ph/IyDxu"
+          ]
+        },
+        {
+          "sentence": "For a little more background on the subject that was referenced, on the same day that the post was created, Trump's legal team reportedly asked for a mistrial to be declared in the civil fraud trial brought against him in New York.",
+          "hrefs": [
+            "https://www.nytimes.com/2023/11/15/nyregion/trump-mistrial-fraud-case.html"
+          ]
+        },
+        {
+          "sentence": "Weeks earlier, the same trial featured testimony from retired Deutsche Bank executive Nicholas Haigh. Haigh provided information to the court about the bank's decision to loan Trump roughly $125 million for the purchase of the Trump National Doral property in Miami in 2011, according to ABC News.",
+          "hrefs": [
+            "https://abcnews.go.com/amp/US/live-updates/trump-fraud-trial/bank-relied-on-trumps-financial-statement-to-secure-loan-103895871?id=103642561"
+          ]
+        },
+        {
+          "sentence": "As for Mar-a-Lago, Miami Herald reported in August 2022 that Trump had received a loan from Chase Manhattan Bank  not Deutsche Bank  for his 1985 purchase of the property:",
+          "hrefs": [
+            "https://www.miamiherald.com/news/state/florida/article264318476.html"
+          ]
+        },
+        {
+          "sentence": "For further reading, we previously published a report titled, \"Media Literacy: How Can You Tell if a Post Is Satire/Parody?\"",
+          "hrefs": [
+            "https://www.snopes.com/articles/464404/media-literacy-satire-parody/"
+          ]
+        }
+      ],
+      "label": "false",
+      "visualization_bias": NaN,
+      "binary_label": 0,
+      "claim_length": 22
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/california-text-tax/",
+      "claim": "Is California introducing a 5-cent charge on text messages to support providing free phones for immigrants?",
+      "author": "Arturo Garcia",
+      "posted": "12/17/2018",
+      "sci_digest": [
+        "The purpose of a proposal by California state officials was quickly misrepresented in online posts."
+      ],
+      "justification": "California officials proposed a new surcharge on cell phone users' monthly bills in November 2018, a move that was misrepresented by some social media users as a \"text tax\" and targeted for expressions of anti-immigrant sentiment. The California Public Utilities Commission's (CPUC) proposal would have instituted a surcharge on text messaging services to be included in cell phone users' monthly service bills. The commission's plan called for the revenues generated to be used to fund public-purpose programs that provide phone service for lower-income residents as well as for deaf and disabled individuals. However, the proposal did not call for a \"5-cent tax\" per text message. Rather, the tax would have been based on a percentage of a cell phone user's monthly bills, costing around $1.40 per $20 of texting charges. The surcharge would have been similar to existing taxes, as KGO-TV reported. For example, you pay about 3.75 percent for Universal Lifeline Telephone Service, which funds discounts for low-income customers, and 0.40 percent for the Deaf and Disabled Telecommunications Program, which funds free specialized equipment for customers who need it. The CPUC stated it needed the \"text tax\" because revenue that funds those programs was down, as people were making fewer calls and texting more. Regardless, some social media users accused the CPUC of seeking to financially benefit individuals they deemed undesirable, such as \"drug addicts\" and \"illegals.\" The commission had originally planned to vote on the issue on January 10, 2019, but the Federal Communications Commission (FCC) intervened on December 12, 2018, ruling that both Short Message Service (SMS) and Multimedia Messaging Service (MMS) should be regulated as \"information services\" akin to email and not as telecommunication services. The FCC's 3-1 decision meant that text messages would fall under the purview of the federal Telecommunications Act, which limits state jurisdiction over them. Five days later, the CPUC announced that the proposal for the surcharge had been withdrawn from their docket.",
+      "issues": [
+        "income"
+      ],
+      "image_data": [
+        {
+          "image_src": "https://drive.google.com/uc?export=view&id=17HjJ_cOG5hfcKoHkkym6fv76wvJD7TEN"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence": "The California Public Utilities Commission's (CPUC) proposal would have instituted a surcharge on text messaging services to be included in cell phone users' monthly service bills. The commission's plan called for the revenues so raised to be used to fund public-purpose programs that provide phone service for lower-income residents as well as for deaf and disabled residents.",
+          "hrefs": [
+            "https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M238/K227/238227359.PDF"
+          ]
+        },
+        {
+          "sentence": "However, the proposal did not call for a \"5-cent tax\" per text message. Rather, the tax would have been based on a percentage of a cell phone users' monthly bills, costing around $1.40 per $20 of texting charges. The surcharge would have been similar to  existing taxes, as KGO-TV reported:",
+          "hrefs": [
+            "https://www.nbcnews.com/politics/politics-news/california-considers-plan-tax-text-messages-critics-call-regressive-absurd-n947471",
+            "https://abc7news.com/technology/this-is-how-californias-text-tax-would-work/4894398/"
+          ]
+        },
+        {
+          "sentence": "The commission had originally planned to vote on the issue on 10 January 2019, but the Federal Communications Commission (FCC) stepped in on 12 December 2018 and ruled that both Short Message Service (SMS) and Multimedia Messaging Service (MMS) should be regulated as \"information services\" akin to email and not as  telecommunication services.",
+          "hrefs": [
+            "https://www.mercurynews.com/2018/12/12/fcc-decision-deals-blow-to-california-text-tax-plan/"
+          ]
+        },
+        {
+          "sentence": "The FCC's 3-1 decision meant that text messages would fall under the purview of the federal Telecommunications Act, which limits state jurisdiction over them. Five days later, the CPUC announced that the proposal for the surcharge had been withdrawn from their docket.",
+          "hrefs": [
+            "https://twitter.com/californiapuc/status/1073773451075235840"
+          ]
+        }
+      ],
+      "label": "false",
+      "visualization_bias": NaN,
+      "binary_label": 0,
+      "claim_length": 16
+    },
+    {
+      "url": "https://www.politifact.com/factchecks/2021/jan/20/jordan-rachel/minimum-wage-increases-and-myth-38-burrito/",
+      "claim": "A $15-per-hour minimum wage would raise the price of a Taco Bell burrito to $38.",
+      "author": "Bill McCarthy",
+      "posted": "01/20/2021",
+      "sci_digest": [
+        "Taco Bell said some of its locations have already adapted to $15-an-hour minimum wages at city and county levels.",
+        "Taco Bell burrito prices are nowhere close to $38 in those places., Four economists described the warning about $38 Taco Bell burrito prices as far from accurate and not supported by evidence., Rachels tweet making the claim appears to have been deleted."
+      ],
+      "justification": "President Joe Bidens proposal for an$1.9 trillion economic rescue packagecalls for more than doubling the federal minimum wage, which was last raised over a decade ago. The plan has stirred up online chatter about the impact of a proposed $15-an-hour federal rate, with one conservative commentator warning that it would send prices soaring. If you want $15 minimum wage, dont complain when your Taco Bell order costs $38 for a burrito, said Jordan Rachel, a Turning Point USA contributor,in a Jan. 16 tweet. Business groups have long opposed sharply higher minimum wages on the grounds that they would hurt employment and raise consumer prices. But $38 for a burrito? That seemed like a hefty price at any restaurant, let alone a fast-food chain like Taco Bell, which still has several $1 items on its value menu. So PolitiFact decided to put Rachels claim to the Truth-O-Meter. We reached out to Turning Point USA and a spokesperson for Charlie Kirk, the organizations founder, about Rachels claim, and we got no response. Soon after we sent our inquiries, Rachels tweet about Taco Bell disappeared from the platform. We did, however, hear back from Taco Bell. The company, part of the Yum! Brands family of restaurant chains, told us that it already does business in places where local laws set a higher wage than the $7.25-an-hour federal minimum. In those places, burrito prices havent skyrocketed. Taco Bell and our franchisees have already adapted to many minimum wage increases on a local level, and we are committed to maintaining our leadership in value on a national level, Taco Bell said in a statement to PolitiFact. For example, at our company-owned restaurants in New York City, where the minimum wage is $15 an hour, our Bean Burrito is $1.89 plus tax and Crunchwrap Supreme is $4.49 plus tax. Several economists we talked to described Rachels warning about $38 burritos as far from accurate and easily countered by evidence. A price of $38 is clearly absurd, said Orley Ashenfelter, a Princeton University economist who has used the price of McDonalds Big Mac sandwiches to compare wages worldwide. The federal minimum wage has been stuck at $7.25 per hour since 2009, but 29 states and Washington, D.C., haveminimum wagesabove the federal level, according to theNational Conference of State Legislatures. Some cities and counties have already bumped their rates to $15 or higher. And arecent reportfrom the National Employment Law Project said that by the end of 2021, 40 more cities and counties will have a minimum wage at or above $15 than at the end of 2020. Efforts to increase the federal rate haveacceleratedin recent years. The House in 1999 voted to raise the hourly minimum to $15 by 2025  the bill stalled in the Senate  and Bidenpromisedduring his campaign to seek a $15 floor. That pledge made its way into Bidens coronavirus relief proposal released Jan. 14. On Jan. 15, some 1,000 fast-food workerswent on striketo protest low wages. They and other proponents of raising the minimum wage say doing so would lift low-income workers out of poverty, while opponents warn of hamstringing businesses and forcing layoffs. Prices at Taco Bell restaurants and other chains vary by location. And experts said it would be reasonable to expect increased prices with a bump to a $15 federal minimum wage. But Rachels warning of a $38 burrito isnt supported by evidence. I can think of no economic justification that would lead to a prediction anywhere close to the estimate of a $38 Taco Bell burrito, said Steven Fazzari, a professor of economics at Washington University in St. Louis. A simple way to gauge the potential impact on prices is to look at places where the minimum wage is already $15 or more per hour, experts said. Plenty of cities work as benchmarks, including New York,Washington, D.C., Seattle and San Francisco. In San Francisco, for example, the minimum wage is $16.07 per hour. But the burrito prices there are not much different from cities with lower minimum wages. Sometimes theyre the same. Some of Taco Bells most expensive burritos show no price difference whatsoever between places with very high and very low minimum wages, said Gary Burtless, a senior fellow in economic studies at the Brookings Institution, who called Rachels claim easily disproven. Burtless compared prices for two different types of burritos at San Franciscos710 Third St. Taco Bellto prices for the same burritos at aTaco Bellin Alexandria, Va., where the states minimum wage is currently $7.25 per hour, equal to the federal minimum. In Alexandria, a Bean Burrito goes for $1.29, while a Burrito Supreme costs $4.19. At the San Francisco location, a Bean Burrito sells for $1.99, and a Burrito Supreme costs $4.19. Two screenshots from Taco Bell's website show the prices listed for a Bean Burrito and a Burrito Supreme at Taco Bell locations in Alexandria, Va., and San Francisco, on Jan. 20, 2021. The most expensive burrito on the menu, the Crunchwrap Supreme, costs $4.19 in Alexandria and $4.49 in San Francisco, a difference of about 7%. We find absolutely no evidence that a higher minimum wage will boost Taco Bell burrito prices by anything that comes remotely close to 807%, the price increase implicitly predicted by Jordan Rachel, Burtless said. Bryan Stuart, an assistant professor of economics at George Washington University, said burrito prices in major cities like New York City and San Francisco likely represent an upper bound on the average burrito price if the federal minimum wage goes to $15. Thats because the price of a Taco Bell burrito depends on more than just worker salaries. The price of burritos depends on the cost of land, taxes, etc., and many of these costs are higher in cities that have a minimum wage at or above $15, Stuart said. Ashenfelter, the Princeton economist, said labor costs represent between 20% and 30% of the final consumer price. He said new research of his, on McDonalds wages and Big Mac prices, estimated that a 10% increase in the minimum wage would raise Big Mac prices by 1.4%. That suggests that Taco Bell burritos could cost more in some places under Bidens proposal  which would increase the federal minimum by more than 100%  but nowhere near $38. Rachel said a $15-an-hour minimum wage would raise the price of a Taco Bell burrito to $38. This claim is countered by available evidence, including the current burrito prices at Taco Bell locations in cities and counties where a $15 minimum wage is in effect. Four economists characterized the claim as a far-off estimate at odds with economic theory. We rate Rachels statement False.",
+      "issues": [
+        "Economy",
+        "Food",
+        "Pundits",
+        "Workers",
+        "PunditFact"
+      ],
+      "image_data": [
+        {
+          "image_src": "https://drive.google.com/uc?export=view&id=1zU38TRBgQT1xX3IrTobPbCIO0SBXtvY-",
+          "image_caption": "Two screenshots from Taco Bell's website show the prices listed for a Bean Burrito and a Burrito Supreme at Taco Bell locations in Alexandria, Va., and San Francisco, on Jan. 20, 2021."
+        }
+      ],
+      "evidence": [
+        {
+          "sentence": "President Joe Bidens proposal for an$1.9 trillion economic rescue packagecalls for more than doubling the federal minimum wage, which was last raised over a decade ago.",
+          "hrefs": [
+            "https://www.politifact.com/article/2021/jan/15/whats-joe-bidens-19-trillion-american-rescue-plan/"
+          ]
+        },
+        {
+          "sentence": "If you want $15 minimum wage, dont complain when your Taco Bell order costs $38 for a burrito, said Jordan Rachel, a Turning Point USA contributor,in a Jan. 16 tweet.",
+          "hrefs": [
+            "https://web.archive.org/web/20210116161508if_/https://twitter.com/TheJordanRachel/status/1350476386629087239"
+          ]
+        },
+        {
+          "sentence": "The federal minimum wage has been stuck at $7.25 per hour since 2009, but 29 states and Washington, D.C., haveminimum wagesabove the federal level, according to theNational Conference of State Legislatures.",
+          "hrefs": [
+            "https://www.dol.gov/agencies/whd/minimum-wage/state#va"
+          ]
+        },
+        {
+          "sentence": "Some cities and counties have already bumped their rates to $15 or higher. And arecent reportfrom the National Employment Law Project said that by the end of 2021, 40 more cities and counties will have a minimum wage at or above $15 than at the end of 2020.",
+          "hrefs": [
+            "https://s27147.pcdn.co/wp-content/uploads/Raises-From-Coast-to-Coast-2021.pdf"
+          ]
+        },
+        {
+          "sentence": "Efforts to increase the federal rate haveacceleratedin recent years. The House in 1999 voted to raise the hourly minimum to $15 by 2025  the bill stalled in the Senate  and Bidenpromisedduring his campaign to seek a $15 floor. That pledge made its way into Bidens coronavirus relief proposal released Jan. 14.",
+          "hrefs": [
+            "https://www.politifact.com/article/2016/may/09/fact-checking-minimum-wage-debate/"
+          ]
+        },
+        {
+          "sentence": "On Jan. 15, some 1,000 fast-food workerswent on striketo protest low wages. They and other proponents of raising the minimum wage say doing so would lift low-income workers out of poverty, while opponents warn of hamstringing businesses and forcing layoffs.",
+          "hrefs": [
+            "https://www.cnn.com/2021/01/15/business/fast-food-workers-mlk-strike/index.html"
+          ]
+        },
+        {
+          "sentence": "Plenty of cities work as benchmarks, including New York,Washington, D.C., Seattle and San Francisco. In San Francisco, for example, the minimum wage is $16.07 per hour. But the burrito prices there are not much different from cities with lower minimum wages. Sometimes theyre the same.",
+          "hrefs": [
+            "https://twitter.com/briantylercohen/status/1350589332185206784?s=20"
+          ]
+        },
+        {
+          "sentence": "Burtless compared prices for two different types of burritos at San Franciscos710 Third St. Taco Bellto prices for the same burritos at aTaco Bellin Alexandria, Va., where the states minimum wage is currently $7.25 per hour, equal to the federal minimum.",
+          "hrefs": [
+            "https://www.tacobell.com/food/burritos?store=031685"
+          ]
+        }
+      ],
+      "label": "false",
+      "visualization_bias": NaN,
+      "binary_label": 0,
+      "claim_length": 15
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/cdc-entering-hospital-covid/",
+      "claim": "Has the CDC claimed that every individual entering a hospital is identified as a COVID-19 case?",
+      "author": "Nur Ibrahim",
+      "posted": "12/04/2020",
+      "sci_digest": [
+        "Some rumors about hospital practices during the 2020 pandemic proved almost too wild to be true."
+      ],
+      "justification": "Snopes is still fighting an infodemic of rumors and misinformation surrounding the COVID-19 pandemic, and you can help. Find out what we've learned and how to inoculate yourself against COVID-19 misinformation. Read the latest fact checks about the vaccines. Submit any questionable rumors and advice you encounter. Become a Founding Member to help us hire more fact-checkers. And, please, follow the CDC or WHO for guidance on protecting your community from the disease.  fighting Find out Read Submit Become a Founding Member CDC WHO As hospitals continued to be overwhelmed in 2020 by a surge in COVID-19 cases across the United States, false information surrounding the management of the disease and patients continued to circulate. overwhelmed One post in particular, shared on our Facebook group, Snopes Tips, claimed that the Centers for Disease Control and Prevention (CDC) released a statement alleging that \"anyone who walks into the hospital is counted as a Covid case, no matter why they come to the hospital, as the government pays the hospital extra money. post  There are two parts to this claim: Firstly, that hospitals are inflating their COVID-19 numbers, and secondly, that the government is allocating more funds based on coronavirus cases. Snopes covered the second part of the claim back in April. We learned that it was possible that Medicare was paying hospital fees for some COVID-19 cases, but Medicare stated that it does not make standard, one-size-fits-all payments to hospitals for patients admitted with COVID-19 diagnoses and placed on ventilators. covered The CDC highlighted in a statement how the Coronavirus Aid, Relief and Economic Security Act (CARES), the Paycheck Protection Program, and Health Care Enhancement Act provided $175 billion in relief funds to hospitals and healthcare providers on the front lines of the coronavirus response: highlighted In the first round of the High Impact Allocation, $12 billion was distributed to nearly 400 hospitals who provided inpatient care for 100 or more COVID-19 patients through April 10, 2020. $2 billion of these payments was distributed to these hospitals based on their Medicare disproportionate share and uncompensated care payments. In the second round of funding, $10 billion will be distributed to hospitals having over 161 COVID-19 admissions between January 1 and June 10, 2020. For the first part of the claim, we looked through CDC statements and reports about people admitted to hospitals around the country and were unable to find a case where the CDC said that the hospital was inflating its COVID-19 case numbers in order to get more money. We reached out to the CDC, and the agency referred us to the Department of Health and Human Services (HHS), but did not confirm whether it had ever made such a statement about hospitals counting everyone who enters as a COVID-19 case. U.S. President Donald Trump promoted another version of this conspiracy theory at a rally in October, where he said hospitals were inflating the numbers of COVID-19 deaths, and was roundly debunked by news outlets and rejected in a statement by the American College of Emergency Physicians.  promoted debunked statement To imply that emergency physicians would inflate the number of deaths from this pandemic to gain financially is offensive, especially as many are actually under unprecedented financial strain as they continue to bear the brunt of COVID-19. These baseless claims not only do a disservice to our health care heroes but promulgate the dangerous wave of misinformation which continues to hinder our nations efforts to get the pandemic under control and allow our nation to return to normalcy. The dire situation in hospitals paints a very different picture, far-removed from claims that they are profiting financially from the pandemic. A New York Times report from Nov. 27, 2020, highlighted how surging coronavirus numbers were resulting in a crisis-level shortage of beds and staff around the country. In some cases, hospitals were facing shortages in protective equipment, forcing healthcare workers to buy their own. As of Dec. 3, 2020, hospitalizations from the virus topped 100,000  an all-time high since the pandemic began.  New York Times Dec. 3, 2020 An April Washington Post report described how hospitals were also suffering from financial losses on account of their deferring or cancelling non-urgent surgeries to free up bed space for the pandemic, cutting off income, and forcing them to lay off workers. At the time, relief packages for hospitals were widely described as insufficient. Washington Post financial losses insufficient Hospital-reported data on COVID-19 patients have addressed a range of issues around the country. A July 2020 ProPublica report detailed how the Trump administration had told hospitals to stop reporting data to the CDC and instead report it to HHS. The move resulted in widespread confusion. While the number of infected patients was soaring nationally, for a period of time it was unclear how many were being treated in hospitals for COVID-19. A few states like Idaho and South Carolina experienced temporary information blackouts, and the COVID Tracking Project reported issues with its figures. July 2020 A Nov. 29, 2020, investigation by the American Association for the Advancement of Sciences (AAAS) magazine found the federal system for tracking COVID-19 patients was continuing to carry questionable data. HHS collected hospital patient data in two ways  through HHS Protect, and the Office of the Assistant Secretary for Preparedness and Response (ASPR). Their two sources of data on the usage of Intensive Care Unit (ICU) beds for COVID patients conflicted sharply in at least six states. HHS data also diverged sharply from state-supplied data, and showed that over the last two months, COVID-19 in-patient tally in 14 states was consistently lower than HHS Protects. investigation consistently In at least 27 states, the tally was alternating between being lower and higher than HHS. And recently, in 16 states, the tallies grew closer. The over-arching conclusion for this analysis was that hospitals are going to be over-stressed in the upcoming months, with inaccurate information systems in place. We have reached out to the HHS to learn more, and will update this post with more information. Additionally, if the language of the claim is taken at face value, CDC guidance for hospitals references providing necessary in-person clinical services for conditions other than COVID-19 in the safest way possible, minimizing disease transmission to patients [...]. This leads to the conclusion that the CDC itself is not stating that hospitals are classifying everyone who walks in as a COVID-19 case. guidance While it is true that the government did provide relief funds in various forms for COVID-19 cases to hospitals in need of aid, little evidence exists that numbers were being inflated by hospitals for this reason. We thus rate this claim as false.",
+      "issues": [
+        "income"
+      ],
+      "image_data": [
+        {
+          "image_src": "https://drive.google.com/uc?export=view&id=1b57QpR5Qa-zM3762hr_vBxF-o_0pEDTv"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence": "Snopes is still fighting an infodemic of rumors and misinformation surrounding the COVID-19 pandemic, and you can help. Find out what we've learned and how to inoculate yourself against COVID-19 misinformation. Read the latest fact checks about the vaccines. Submit any questionable rumors and advice you encounter. Become a Founding Member to help us hire more fact-checkers. And, please, follow the CDC or WHO for guidance on protecting your community from the disease. ",
+          "hrefs": [
+            "https://www.snopes.com/2020/03/20/snopes-on-covid-19-fact-checking/",
+            "https://www.snopes.com/news/2021/03/11/one-year-covid-infodemic/",
+            "https://www.snopes.com/tag/covid-19-vaccines/",
+            "https://www.snopes.com/contact/",
+            "https://www.snopes.com/projects/founding-members/",
+            "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
+            "https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+          ]
+        },
+        {
+          "sentence": "As hospitals continued to be overwhelmed in 2020 by a surge in COVID-19 cases across the United States, false information surrounding the management of the disease and patients continued to circulate.",
+          "hrefs": [
+            "https://www.nytimes.com/2020/11/27/health/covid-hospitals-overload.html"
+          ]
+        },
+        {
+          "sentence": "One post in particular, shared on our Facebook group, Snopes Tips, claimed that the Centers for Disease Control and Prevention (CDC) released a statement alleging that \"anyone who walks into the hospital is counted as a Covid case, no matter why they come to the hospital, as the government pays the hospital extra money.",
+          "hrefs": [
+            "https://www.facebook.com/groups/441333919315986/permalink/3558364224279591/"
+          ]
+        },
+        {
+          "sentence": "Snopes covered the second part of the claim back in April. We learned that it was possible that Medicare was paying hospital fees for some COVID-19 cases, but Medicare stated that it does not make standard, one-size-fits-all payments to hospitals for patients admitted with COVID-19 diagnoses and placed on ventilators.",
+          "hrefs": [
+            "https://www.snopes.com/fact-check/medicare-hospitals-covid-patients/"
+          ]
+        },
+        {
+          "sentence": "The CDC highlighted in a statement how the Coronavirus Aid, Relief and Economic Security Act (CARES), the Paycheck Protection Program, and Health Care Enhancement Act provided $175 billion in relief funds to hospitals and healthcare providers on the front lines of the coronavirus response:",
+          "hrefs": [
+            "https://data.cdc.gov/Administrative/Provider-Relief-Fund-COVID-19-High-Impact-Payments/b58h-s9zx"
+          ]
+        },
+        {
+          "sentence": "U.S. President Donald Trump promoted another version of this conspiracy theory at a rally in October, where he said hospitals were inflating the numbers of COVID-19 deaths, and was roundly debunked by news outlets and rejected in a statement by the American College of Emergency Physicians. ",
+          "hrefs": [
+            "https://edition.cnn.com/2020/10/30/politics/trump-doctors-covid/index.html",
+            "https://edition.cnn.com/2020/10/30/politics/trump-doctors-covid/index.html",
+            "https://www.emergencyphysicians.org/press-releases/2020/10-25-20-acep-rebuts-president-trumps-false-statements-about-overcounting-covid-19-deaths"
+          ]
+        },
+        {
+          "sentence": "The dire situation in hospitals paints a very different picture, far-removed from claims that they are profiting financially from the pandemic. A New York Times report from Nov. 27, 2020, highlighted how surging coronavirus numbers were resulting in a crisis-level shortage of beds and staff around the country. In some cases, hospitals were facing shortages in protective equipment, forcing healthcare workers to buy their own. As of Dec. 3, 2020, hospitalizations from the virus topped 100,000  an all-time high since the pandemic began. ",
+          "hrefs": [
+            "https://www.nytimes.com/2020/11/27/health/covid-hospitals-overload.html",
+            "https://www.nytimes.com/live/2020/12/02/world/covid-19-coronavirus"
+          ]
+        },
+        {
+          "sentence": "An April Washington Post report described how hospitals were also suffering from financial losses on account of their deferring or cancelling non-urgent surgeries to free up bed space for the pandemic, cutting off income, and forcing them to lay off workers. At the time, relief packages for hospitals were widely described as insufficient.",
+          "hrefs": [
+            "https://www.washingtonpost.com/health/starved-for-cash-hospitals-and-doctor-groups-cut-staff-amid-pandemic/2020/04/09/d3593f54-79a7-11ea-a130-df573469f094_story.html",
+            "https://www.washingtonpost.com/health/starved-for-cash-hospitals-and-doctor-groups-cut-staff-amid-pandemic/2020/04/09/d3593f54-79a7-11ea-a130-df573469f094_story.html",
+            "https://www.washingtonpost.com/health/starved-for-cash-hospitals-and-doctor-groups-cut-staff-amid-pandemic/2020/04/09/d3593f54-79a7-11ea-a130-df573469f094_story.html"
+          ]
+        },
+        {
+          "sentence": "Hospital-reported data on COVID-19 patients have addressed a range of issues around the country. A July 2020 ProPublica report detailed how the Trump administration had told hospitals to stop reporting data to the CDC and instead report it to HHS. The move resulted in widespread confusion. While the number of infected patients was soaring nationally, for a period of time it was unclear how many were being treated in hospitals for COVID-19. A few states like Idaho and South Carolina experienced temporary information blackouts, and the COVID Tracking Project reported issues with its figures.",
+          "hrefs": [
+            "https://www.propublica.org/article/how-many-people-in-the-us-are-hospitalized-with-covid-19-who-knows"
+          ]
+        },
+        {
+          "sentence": "A Nov. 29, 2020, investigation by the American Association for the Advancement of Sciences (AAAS) magazine found the federal system for tracking COVID-19 patients was continuing to carry questionable data. HHS collected hospital patient data in two ways  through HHS Protect, and the Office of the Assistant Secretary for Preparedness and Response (ASPR). Their two sources of data on the usage of Intensive Care Unit (ICU) beds for COVID patients conflicted sharply in at least six states. HHS data also diverged sharply from state-supplied data, and showed that over the last two months, COVID-19 in-patient tally in 14 states was consistently lower than HHS Protects.",
+          "hrefs": [
+            "https://www.sciencemag.org/news/2020/11/federal-system-tracking-hospital-beds-and-covid-19-patients-provides-questionable-data",
+            "https://www.sciencemag.org/news/2020/11/federal-system-tracking-hospital-beds-and-covid-19-patients-provides-questionable-data"
+          ]
+        },
+        {
+          "sentence": "Additionally, if the language of the claim is taken at face value, CDC guidance for hospitals references providing necessary in-person clinical services for conditions other than COVID-19 in the safest way possible, minimizing disease transmission to patients [...]. This leads to the conclusion that the CDC itself is not stating that hospitals are classifying everyone who walks in as a COVID-19 case.",
+          "hrefs": [
+            "https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-hcf.html"
+          ]
+        }
+      ],
+      "label": "false",
+      "visualization_bias": NaN,
+      "binary_label": 0,
+      "claim_length": 16
+    },
+    {
+      "url": "https://www.politifact.com/factchecks/2017/oct/25/charles-francis/democrat-running-mayor-says-southeast-raleigh-gyms/",
+      "claim": "There are parks in Southeast Raleigh that still dont have air conditioning in the gym",
+      "author": "Paul Specht",
+      "posted": "10/25/2017",
+      "sci_digest": [],
+      "justification": "Charles Francis says Raleigh isn't spending its parks money fairly. Francis, a Democrat, is running for mayor of Raleigh against three-time incumbent Nancy McFarlane, who is unaffiliated. They are in a runoff after none of the three candidates\u2014Francis, McFarlane, and Republican Paul Fitts\u2014secured the 50 percent of the vote required to win. (McFarlane got 48 percent, Francis got 36 percent, and Fitts got 12 percent.) In a debate on Friday, Francis suggested the city shouldn't focus all of its energy on Dix Park when more basic needs go unaddressed. Dix Park is a 308-acre property just south of downtown Raleigh that the city bought from the state in 2014 and plans to develop into a destination recreation spot. \"It's not right that there are parks in Southeast Raleigh that still don't have air conditioning in the gym,\" he said. \"We've got to have equity in the way we approach our parks.\" Southeast Raleigh, the city's lone predominantly Black area, hasn't enjoyed the same economic success as other parts of the city where businesses are opening and property values are rising. Francis grew up there and is campaigning on the idea that the city should be doing more for the area. A recent PolitiFact analysis of the Oct. 10 election showed Francis received his most fervent support in Southeast Raleigh. He has previously talked about how those voters could swing the election. \"There are 80,000 Black voters in Raleigh,\" Francis said at a forum in September. \"McFarlane normally wins with 25,000 to 30,000 votes. If only a quarter of African-American voters vote\u2014and vote the right way\u2014we're going to win.\" Given the city's budget is $919 million, PolitiFact wondered whether there are, indeed, gyms in Southeast Raleigh that don't have air conditioning. What we found: the city controls 23 gyms at 19 venues. And yes, there are three gyms in Southeast Raleigh that don't have air-conditioning units, according to Raleigh's parks, recreation, and cultural resources department. Biltmore Hills Park, John Chavis Memorial Park, and Tarboro Road Park are all located in Southeast Raleigh and lack air conditioning units. But that's not the whole story. There are six other Raleigh gyms that also lack air conditioning. The gyms at Green Road Park, Lions Park in Northeast Raleigh, Method Community Park in West Raleigh, Millbrook Exchange Park in North Raleigh, and two gyms at Laurel Hills Park in Northwest Raleigh also lack air conditioning. Most area gyms have AC. There are also four gyms in the Southeast Raleigh area that do have air conditioning: Barwell Road Community Center, Halifax Community Center, Roberts Park Community Center, and the Worthdale Community Center. The city says it didn't begin putting air-conditioned gyms in park facilities until 2006. It costs about $300,000 to install units in older facilities. The city says its budget for capital projects will fund air-conditioning units in eight of the nine AC-less gyms by 2022. Method Park, the lone outlier, is being considered for AC funding as part of the 2023 budget, the city says. Our ruling: Francis said gyms in Southeast Raleigh don't have air conditioning. There are four area gyms that have it and six gyms elsewhere in the city that don't have it. That context is important when debating city priorities, and Francis didn't elaborate during the televised debate. But he's right: there are three gyms in Southeast Raleigh that don't have AC. We rate his claim Mostly True.",
+      "issues": [
+        "City Budget",
+        "City Government",
+        "North Carolina"
+      ],
+      "image_data": [],
+      "evidence": [
+        {
+          "sentence": "A recent PolitiFact analysis of the Oct. 10 election showed Francis got his most fervent support in Southeast Raleigh. And he has previously talked about howthose voters could swing the election.",
+          "hrefs": [
+            "http://www.newsobserver.com/news/local/counties/wake-county/article173270441.html"
+          ]
+        }
+      ],
+      "label": "true",
+      "visualization_bias": NaN,
+      "binary_label": 1,
+      "claim_length": 15
+    },
+    {
+      "url": "https://www.politifact.com/factchecks/2016/apr/06/bill-clinton/bill-clintons-college-debt-claim-mostly-true/",
+      "claim": "In the United States, a college loan stands out as the only type of loan that is not eligible for refinancing when interest rates decrease.",
+      "author": "Chris Nichols",
+      "posted": "04/06/2016",
+      "sci_digest": [],
+      "justification": "Former President Bill Clinton raised a hot-button issue while campaigning for his wife in Los Angeles this week: America's mounting student loan debt. Student debt in the United States has reached $1.3 trillion, trailing only the amount Americans owe on their mortgages. It is often blamed for preventing young people from buying houses and cars, which fuels the country's economy. Undergraduates in the class of 2015 graduated with an average of $35,000 in student loan debt, the highest in history, according to Edvisors.com, a financial aid website. If elected president in November, Democratic frontrunner Hillary Clinton would remove a unique barrier related to college loans, the former president claimed. A college loan is the only loan in the United States that you cannot refinance when interest rates go down, Bill Clinton said, speaking at a recent campaign rally at Los Angeles Trade-Technical College. We wondered: Is refinancing really off-limits for all college loans? With student loan debt being such a significant issue this election year, we decided to check the facts. \n\nPast efforts at change \nBoth Hillary Clinton and Vermont Sen. Bernie Sanders, her rival for the Democratic presidential nomination, have pledged to allow student loans to be refinanced. However, they weren't the first to call for this change. In June 2014, Senate Republicans rejected legislation by Sen. Elizabeth Warren, D-Mass., that would have allowed student borrowers to refinance their federal loan debt. Homeowners are refinancing. Small businesses are refinancing. We just want young people who got an education to have their shot, Warren was quoted as saying in a Washington Post news article at the time. Republicans argued that they were not convinced the legislation would have resulted in lower borrowing costs and labeled it an election stunt. The bill would have allowed people with federal and private loans issued prior to 2010 to refinance at 3.86 percent, the article stated. It added that the Obama administration estimated that the bill could have helped 25 million borrowers save $2,000 each over the lifetime of their loans, totaling $50 billion. \n\nOur research \nAs they campaigned across the country, Hillary Clinton and Sen. Sanders have each pledged to allow for the refinancing of college loan debt. What they, and apparently Bill Clinton, are discussing is refinancing federally backed student loans, which account for about 90 percent of all student borrowing. We turned to the nonprofit college planning group American Student Assistance for some advice. They and other groups say federal student loans can be refinanced into private loans. However, doing so can remove federal protections such as fixed interest rates and the ability to pause repayments. Additionally, private student loans can be refinanced into new lower-interest private loans. But there is no provision in federal law allowing the refinancing of a federal loan into another, lower-interest federal loan. There is no federal refinancing. Congress sets the interest rate for federal student loans, and most of these rates are fixed by law, regardless of how solid your credit or income becomes post-graduation, American Student Assistance advises potential borrowers. \n\nPolitiFact Texas examined a similar claim in 2014 and rated it Mostly True. They spoke with Heather Jarvis, a North Carolina attorney specializing in student loan law, who informed them that some graduates may be able to refinance student loans at lower rates through private lenders. However, she noted that this would only occur in cases where borrowers have substantial income. Jarvis added that refinancing federal loans with a private loan is risky, as the borrower gives up important protections that accompany federal loans (like flexible repayment and discharge provisions). Students repaying federally backed loans, Jarvis stated, are effectively barred from refinancing opportunities because federal law makes no provision for the government to make such offers. \n\nAsked about the former president's statement, Bill Clinton's press secretary said in an email that it is very safe to say that the vast majority of students with debt have federal debt. She pointed to statistics from the College Board showing that federal loans account for about 90 percent of student borrowing. She mentioned that a small percentage of borrowers can refinance a federal student loan by converting it into a private loan. \n\nOur ruling \nFormer President Bill Clinton stated at a recent campaign rally in Los Angeles: A college loan is the only loan in the United States that you cannot refinance when interest rates go down. Borrowers of federally backed student loans, which account for about 90 percent of student loans, cannot refinance those into lower-interest federal loans. Congress sets the interest rate on these loans, and there is no provision in federal law that allows for them to be refinanced. Depending on factors such as income, some borrowers can refinance their federal loans into lower-interest private loans, though they risk losing their federal loan protections. Clinton most likely was referring only to federally backed loans when he made his statement, but a clarification about private loans would have been helpful. We rated his claim Mostly True. \n\nMOSTLY TRUE \nThe statement is accurate but needs clarification or additional information. Click here for more on the six PolitiFact ratings and how we select facts to check.",
+      "issues": [
+        "Debt",
+        "Economy",
+        "Education",
+        "California"
+      ],
+      "image_data": [
+        {
+          "image_src": "https://drive.google.com/uc?export=view&id=1lqoOuuICPulhTpFmM1_hr49BjOpsxNkf",
+          "image_caption": "Former President Bill Clinton speaks during a campaign stop for his wife, Democratic presidential candidate Hillary Clinton, Tuesday, Feb. 16, 2016, at the West End Community Development Center in Greenville, S.C. (AP Photo/Paul Sancya)"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence": "Undergraduates in the class of 2015 finished school with anaverage of $35,000in student loan debt, the most in history, according to Edvisors.com, a financial aid website.",
+          "hrefs": [
+            "https://www.edvisors.com/ask/faq/average-amount-student-loan/"
+          ]
+        },
+        {
+          "sentence": "In June 2014, Senate Republicans rejectedlegislationby Sen. Elizabeth Warren, D-Mass., that would have let student borrowers refinance their federal loan debt.",
+          "hrefs": [
+            "https://www.govtrack.us/congress/bills/113/s2292/text"
+          ]
+        },
+        {
+          "sentence": "Homeowners are refinancing. Small businesses are refinancing. We just want young people who got an education to have their shot, Warren was quoted as saying in aWashington Post news articleat the time.",
+          "hrefs": [
+            "https://www.washingtonpost.com/news/wonk/wp/2014/06/11/elizabeth-warrens-bill-to-refinance-student-loans-dies-in-senate-now-what/"
+          ]
+        },
+        {
+          "sentence": "What they, and apparently Bill Clinton, are talking about is refinancing federally backed student loans, which account forabout 90 percentof all student borrowing.",
+          "hrefs": [
+            "http://trends.collegeboard.org/student-aid/figures-tables/total-federal-and-nonfederal-loans-over-time"
+          ]
+        },
+        {
+          "sentence": "There is no federal refinancing. Congress sets the interest rate for federal student loans, and most of these rates are fixed by law, no matter how solid your credit or income becomes post-graduation, American Student Assistanceadvisespotential borrowers.",
+          "hrefs": [
+            "http://www.usnews.com/education/blogs/student-loan-ranger/2015/04/29/4-things-to-think-about-when-refinancing-student-loans"
+          ]
+        },
+        {
+          "sentence": "PolitiFact Texasexamined a similar claimin 2014 and rated it Mostly True.",
+          "hrefs": [
+            "https://www.politifact.com/texas/statements/2014/jun/09/pete-gallego/pete-gallego-equates-average-student-loan-debt-pri/"
+          ]
+        },
+        {
+          "sentence": "They spoke withHeather Jarvis, a North Carolina attorney specializing in student loan law, who told them some graduates may be able to refinance student loans at lower rates through private lenders. But, she said, this would only happen in cases in which borrowers have substantial income.",
+          "hrefs": [
+            "http://askheatherjarvis.com/about"
+          ]
+        },
+        {
+          "sentence": "Asked about the former presidents statement, Bill Clintons press secretary said in an email its very safe to say that the vast majority of students with debt have federaldebt. She pointed tostatistics from the College Boardshowing federal loans account for about 90 percent of student borrowing. She said a small percentage of borrowers can refinance a federal student loan by making it a private loan.",
+          "hrefs": [
+            "http://trends.collegeboard.org/student-aid/figures-tables/total-federal-and-nonfederal-loans-over-time"
+          ]
+        },
+        {
+          "sentence": "Click here formoreon the six PolitiFact ratings and how we select facts to check.",
+          "hrefs": [
+            "https://www.politifact.com/truth-o-meter/article/2011/feb/21/principles-truth-o-meter/"
+          ]
+        }
+      ],
+      "label": "true",
+      "visualization_bias": NaN,
+      "binary_label": 1,
+      "claim_length": 25
+    },
+    {
+      "url": "https://www.politifact.com/factchecks/2018/mar/08/noah-smith/has-automation-driven-job-losses-steel-industry/",
+      "claim": "Since 1990, production of metals in the U.S. has held roughly constant, but the number of people employed in the industry has fallen steadily.",
+      "author": "Louis Jacobson",
+      "posted": "03/08/2018",
+      "sci_digest": [],
+      "justification": "As President Donald Trump weighed imposing tariffs on foreign steel and aluminum, some commentators warned that this would be a misguided approach. Noah Smith, a columnist for Bloomberg View and a former finance professor, wrote a column in which he noted, among other things, that a crucial issue facing metals-producing industries isn't foreign competition; it's automation. Tariffs, Smith wrote, won't bring back good jobs at steel and aluminum factories. Since 1990, production of metals in the U.S. has remained roughly constant, but the number of people employed in the industry has fallen steadily. That's due to technological improvements, he wrote: productivity has improved, even as demand has stayed more or less constant. Mathematically, that means fewer jobs for steel and aluminum workers. Tariffs won't change that equation. If anything, by hurting downstream industries like car and equipment manufacturers, the new import taxes will probably kill more factory jobs than they save. We can't predict what will happen in the future, but we wondered whether Smith is right about the trend lines for production and employment in the American metals-producing sector since 1990. When we took a closer look, we found that he's on target. We found data for employment in the primary metals-producing sector, which incorporates five subcategories: iron and steel mills, steel product manufacturing from purchased steel, aluminum production and processing, production and processing of metals other than iron and aluminum, and foundries. Employment levels in this sector have declined reasonably steadily since 1990, despite a period of stable employment during the late 1990s, a sharp but temporary fall during the Great Recession, and a modest uptick over the past year or two in which metals employment growth has outpaced that of the overall economy, said Jed Kolko, chief economist at the jobs site Indeed.com. Overall, since 1990, employment has declined by about 42 percent. At the same time, production in primary metals has remained roughly the same since 1990, except for the Great Recession. For most of that period, production has ranged between 90 percent and 110 percent of the benchmark level (the amount produced in 2012). If you put these two statistics together, the overall pattern becomes clear: as production stays roughly the same and as fewer workers make it happen, productivity rises over time. The idea that steel, in particular, has experienced a productivity revolution due to technology is the same story I have been telling since the early 1990s, said Gary Burtless, an economist with the Brookings Institution. The basic story is that one person can produce a lot more metal today than he or she could produce a few decades ago. Burtless said he has a brother who's been working in the coke oven of a steel plant since the mid-1970s and who has seen first-hand the dramatic reduction in person-power needed to keep integrated steel mills running at full capacity, as well as improvements in quality. Michael J. Hicks, the director of the Center for Business and Economic Research at Ball State University, agreed that Smith's analysis is on target. I would agree that the most likely cause of the productivity gains is technology, though I would interpret technology broadly to include not just machinery but the way that factories organize production, such as internal logistics and the reduction of redundant operations that might be enabled by technology, Hicks said. J. Bradford Jensen, a professor of international business at Georgetown University's McDonough School of Business, added that imports did have something to do with the loss of employment in steel and aluminum, but the more important factor is technological change and productivity growth. Tariffs won't change that, much like relaxing regulations on coal and pollution will not bring back many coal-mining jobs, he said. Smith wrote, \"Since 1990, production of metals in the U.S. has held roughly constant, but the number of people employed in the industry has fallen steadily.\" His numbers are solid, and experts agree that automation has done significant harm to employment levels in the metal industry. We rate the statement True.",
+      "issues": [
+        "Economy",
+        "Jobs",
+        "PunditFact"
+      ],
+      "image_data": [],
+      "evidence": [
+        {
+          "sentence": "Noah Smith, a columnist for Bloomberg View and a former finance professor, wrote acolumnin which he noted, among other things, that a crucial issue facing metals-producing industries isnt foreign competition  its automation.",
+          "hrefs": [
+            "https://www.bloomberg.com/view/articles/2018-03-07/trump-s-tariffs-on-steel-aluminum-will-do-more-harm-than-good"
+          ]
+        }
+      ],
+      "label": "true",
+      "visualization_bias": NaN,
+      "binary_label": 1,
+      "claim_length": 24
+    },
+    {
+      "url": "https://www.politifact.com/factchecks/2014/feb/18/kasim-reed/reed-metro-atlanta-financial-behemoth/",
+      "claim": "The annual gross domestic product of metro Atlanta is bigger than 28 states in the union.",
+      "author": "Eric Stirgus",
+      "posted": "02/18/2014",
+      "sci_digest": [],
+      "justification": "The Atlanta region has drawn millions of newcomers in recent years with its warm weather (snowstorms notwithstanding), reasonably priced housing, and job opportunities in real estate, banking, and the airline industry. Atlanta Mayor Kasim Reed discussed the economic strength of the region during a recent speech before the Atlanta Press Club. One statistic he cited to illustrate the size of metro Atlanta's economy surprised us, prompting us to conduct some fact-checking. The annual gross domestic product of metro Atlanta, the mayor said, is larger than that of 28 states in the union. Is it really that substantial? Mayoral spokesman Carlos Campos stated that Reed was using U.S. Commerce Department data as the basis for his claim. We examined the data, and the most recent statistics we found suggest that the mayor's statement might be conservative. Gross domestic product, or GDP, is the total market value of all goods and services produced within the boundaries of a specific area. Federal officials define the Atlanta metropolitan area as 28 counties that stretch as far north as Dawson, south to Meriwether, as far west as Haralson, and as far east as Walton and Jasper counties. It includes Georgia's four most populous counties: Cobb, DeKalb, Fulton, and Gwinnett. The Atlanta metropolitan area had nearly 5.3 million residents in 2010, the ninth-highest total in the nation. In addition to having a large labor force, metro Atlanta has two major transportation hubs that have helped its economy advance ahead of other regions. One is Hartsfield-Jackson International Airport, which ranks among the world's busiest airports. The other is the ports of Savannah and Brunswick, which are considered to be among the fastest-growing ports in terms of the volume of items shipped there. Although the ports are not located in metro Atlanta, Reed and others note that they are important to the region's economy. About 180,000 full-time and part-time jobs in the 28-county Atlanta region can be attributed to the ports, according to a 2012 University of Georgia study. The region has 11 Fortune 500 companies with Atlanta addresses, according to the Metro Atlanta Chamber. Only New York City and Houston have more Fortune 500 businesses, according to the chamber. So how large is this region's economy? In 2012, the Atlanta region had a GDP of nearly $295 billion, according to the Commerce Department. Reed used that same number in his remarks. Among metropolitan areas, Atlanta's GDP is the 10th highest nationally, which is about where it should be considering it has the ninth-largest population. In order, the metropolitan areas with the largest gross domestic products are New York, Los Angeles, Chicago, Houston, Dallas-Fort Worth, Washington, Philadelphia, San Francisco, and Boston. In terms of how Atlanta compares with other states, only 16 states had a higher GDP. Those states, in order, were California, Texas, New York, Florida, Illinois, Pennsylvania, Ohio, New Jersey, North Carolina, Virginia, Massachusetts, Michigan, Washington, Maryland, Indiana, and Minnesota. Metro Atlanta would also surpass the rest of the state. The region accounts for about two-thirds of the state's GDP, according to the Commerce Department data. The Atlanta region does have a larger population than the rest of the state. PolitiFact Georgia examined other categories of gross domestic product, and the Atlanta region performed as well, if not better, in those areas. For example, in 2012, only 12 states had a higher per capita GDP than metro Atlanta. The per capita gross domestic product for metro Atlanta was $46,970. University of Georgia economist Jeff Humphreys said he is not surprised that metro Atlanta has a higher GDP than most states. \"Atlanta is a huge metro area,\" said Humphreys, the director of the university's Selig Center for Economic Growth. \"The population would outrank a lot of states.\" Indeed, metro Atlanta has a larger population than 30 other states, according to U.S. census figures. Humphreys noted that the Atlanta region has a highly developed economy, supported by economic resources such as the airport that serve people in other states, the country, and the world. To sum up, Reed claimed that the Atlanta region had a higher GDP than 28 other states. Our research indicated that Atlanta performs slightly better than that in most categories. We rate the mayor's statement True.",
+      "issues": [
+        "Georgia",
+        "Economy"
+      ],
+      "image_data": [],
+      "evidence": [],
+      "label": "true",
+      "visualization_bias": NaN,
+      "binary_label": 1,
+      "claim_length": 16
+    }
+  ],
+  "n_true": 4,
+  "n_false": 4,
+  "avg_length": 18.625
+}
