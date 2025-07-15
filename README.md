@@ -102,13 +102,13 @@ Run individual models on the test set:
 
 ```bash
 # Zero-shot Standard
-python scripts/zeroshot_standard.py --model gpt-4o-mini --temp 0.3
+python scripts/zeroshot_standard.py --model gpt-4.1 --temp 0.3
 
 # Zero-shot Chain-of-Thought
-python scripts/zeroshot_cot.py --model gpt-4o-mini --temp 0.3
+python scripts/zeroshot_cot.py --model gpt-4.1 --temp 0.3
 
 # Few-shot Chain-of-Thought
-python scripts/fewshot_cot.py --model gpt-4o-mini --temp 0.3
+python scripts/fewshot_cot.py --model gpt-4.1 --temp 0.3
 ```
 
 Evaluate all models and generate reports:
@@ -138,7 +138,7 @@ All models support the same command-line arguments:
 
 ```bash
 python scripts/[model_script].py \
-    --model gpt-4o-mini \          # OpenAI model
+    --model gpt-4.1 \          # OpenAI model
     --temp 0.3 \                   # Temperature (0.0-1.0)
     --input data/test.csv \        # Input dataset
     --output predictions.csv \     # Output file
@@ -208,8 +208,8 @@ OPENAI_API_KEY=your_api_key_here    # Required: OpenAI API access
 
 ```python
 # Default configuration
-MODEL = "gpt-4o-mini"               # Primary model
-FALLBACK_MODEL = "gpt-4"            # If primary unavailable
+MODEL = "o4-mini"               # Primary model
+FALLBACK_MODEL = "gpt-4.1"            # If primary unavailable
 TEMPERATURE = 0.3                   # Consistent sampling
 MAX_TOKENS = 500                    # Response length limit
 TIMEOUT = 60                        # API timeout (seconds)
